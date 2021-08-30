@@ -1,0 +1,11 @@
+{
+  "ownerID": "753602341554356276",
+  "prefix": "%",
+  "clientId" : "810194332338094101",
+  "bot_age": 1,
+  "words_array": ["Hi", "bye", "this is array"],
+  "bot_info": {
+    "name": "Dreambot",
+    "version": 1.0
+  }
+}
